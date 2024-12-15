@@ -1,0 +1,16 @@
+.editor {
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 1000px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.title-text {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
